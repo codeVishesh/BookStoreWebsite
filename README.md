@@ -73,7 +73,7 @@ matcher('path/anyjs/baz.js', true); // 1
 ```
 
 Changelog
-----------
+--------
 [See release notes page on GitHub](https://github.com/micromatch/anymatch/releases)
 
 - **v3.0:** Removed `startIndex` and `endIndex` arguments. Node 8.x-only.
