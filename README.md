@@ -81,7 +81,3 @@ Changelog
 - **v1.2:** anymatch uses [micromatch](https://github.com/jonschlinkert/micromatch)
 for glob pattern matching. Issues with glob pattern matching should be
 reported directly to the [micromatch issue tracker](https://github.com/jonschlinkert/micromatch/issues).
-
-License
--------
-[ISC](https://raw.github.com/micromatch/anymatch/master/LICENSE)
