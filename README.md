@@ -9,7 +9,7 @@ __Note: This module has Bash-parity, please be aware that Windows-style backslas
 
 
 Usage
------
+------
 ```sh
 npm install anymatch
 ```
