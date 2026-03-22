@@ -61,7 +61,7 @@ anymatch master* ❯
 #### anymatch(matchers)
 You can also pass in only your matcher(s) to get a curried function that has
 already been bound to the provided matching criteria. This can be used as an
-`Array#filter` callback.
+`Array#filter` callback
 
 ```js
 var matcher = anymatch(matchers);
